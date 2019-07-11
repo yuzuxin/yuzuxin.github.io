@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[再来一个测试内容吧]]></title>
-    <url>%2F2019%2F06%2F30%2F%E5%86%8D%E6%9D%A5%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%90%A7%2F</url>
-    <content type="text"><![CDATA[神奇动物：格林德沃之罪杰米坎贝尔鲍尔——年轻的格林德沃——————————]]></content>
+    <title><![CDATA[个人博客的搭建与美化]]></title>
+    <url>%2F2019%2F06%2F30%2F%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BE%8E%E5%8C%96%2F</url>
+    <content type="text"><![CDATA[GitHub + hexo（next）→ 我滴博客—— 关于如何搭建：网上有很多教程了，我就不再赘述了。推荐右边这个教程，我就是看着这个一步步来的：使用hexo搭建个人博客网站最完整详细教程 关于搭建过程中遇到的坑：因为过去好几天了，我都忘了，想起来再记吧……（我到底在写什么？） 关于字体和背景：首页的导航栏背景图是我在pottermore上测试出来的守护神—— White Mare是不是非常酷炫，斯莱特林学生也可以拥有如此温顺善良的守护神其他的我好懒先不写，有空补上。]]></content>
       <categories>
-        <category>文章</category>
+        <category>技术分享</category>
       </categories>
       <tags>
-        <tag>测试</tag>
-        <tag>JavaScript</tag>
-        <tag>机器学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[测试文章]]></title>
-    <url>%2F2019%2F06%2F30%2F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
-    <content type="text"><![CDATA[哈哈哈哈测试文章——啦啦啦啦绿哈哈哈哈或哟 ######叶子]]></content>
-      <categories>
-        <category>文章</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-        <tag>html</tag>
+        <tag>hexo</tag>
         <tag>css</tag>
       </tags>
   </entry>

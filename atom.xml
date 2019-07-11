@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-30T14:27:22.215Z</updated>
+  <updated>2019-07-11T11:56:19.385Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,60 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>再来一个测试内容吧</title>
-    <link href="http://yoursite.com/2019/06/30/%E5%86%8D%E6%9D%A5%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%90%A7/"/>
-    <id>http://yoursite.com/2019/06/30/再来一个测试内容吧/</id>
-    <published>2019-06-30T14:24:13.000Z</published>
-    <updated>2019-06-30T14:27:22.215Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;神奇动物：格林德沃之罪&quot;&gt;&lt;a href=&quot;#神奇动物：格林德沃之罪&quot; class=&quot;headerlink&quot; title=&quot;神奇动物：格林德沃之罪&quot;&gt;&lt;/a&gt;神奇动物：格林德沃之罪&lt;/h1&gt;&lt;h2 id=&quot;杰米坎贝尔鲍尔——年轻的格林德沃&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="文章" scheme="http://yoursite.com/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="JavaScript" scheme="http://yoursite.com/tags/JavaScript/"/>
-    
-      <category term="机器学习" scheme="http://yoursite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试文章</title>
-    <link href="http://yoursite.com/2019/06/30/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2019/06/30/测试文章/</id>
+    <title>个人博客的搭建与美化</title>
+    <link href="http://yoursite.com/2019/06/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BE%8E%E5%8C%96/"/>
+    <id>http://yoursite.com/2019/06/30/个人博客的搭建与美化/</id>
     <published>2019-06-30T14:18:11.000Z</published>
-    <updated>2019-06-30T14:22:34.297Z</updated>
+    <updated>2019-07-11T11:56:19.385Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;哈哈哈哈测试文章&quot;&gt;&lt;a href=&quot;#哈哈哈哈测试文章&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;h1 id=&quot;GitHub-hexo（next）→-我滴博客&quot;&gt;&lt;a href=&quot;#GitHub-hexo（next）→-我滴博客&quot; class=&quot;headerlink&quot; title=&quot;GitHub + hexo（next）→ 我滴博客&quot;&gt;&lt;/a&gt;GitHub + hexo（next）→ 我滴博客&lt;/h1&gt;&lt;p&gt;——&lt;/p&gt;
+&lt;h3 id=&quot;关于如何搭建：&quot;&gt;&lt;a href=&quot;#关于如何搭建：&quot; class=&quot;headerlink&quot; title=&quot;关于如何搭建：&quot;&gt;&lt;/a&gt;关于如何搭建：&lt;/h3&gt;&lt;p&gt;网上有很多教程了，我就不再赘述了。&lt;br&gt;推荐右边这个教程，我就是看着这个一步步来的：&lt;a href=&quot;https://blog.csdn.net/wistbean/article/details/82291124&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;使用hexo搭建个人博客网站最完整详细教程&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;关于搭建过程中遇到的坑：&quot;&gt;&lt;a href=&quot;#关于搭建过程中遇到的坑：&quot; class=&quot;headerlink&quot; title=&quot;关于搭建过程中遇到的坑：&quot;&gt;&lt;/a&gt;关于搭建过程中遇到的坑：&lt;/h3&gt;&lt;p&gt;因为过去好几天了，我都忘了，想起来再记吧……（我到底在写什么？）&lt;/p&gt;
     
     </summary>
     
-      <category term="文章" scheme="http://yoursite.com/categories/%E6%96%87%E7%AB%A0/"/>
+      <category term="技术分享" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="html" scheme="http://yoursite.com/tags/html/"/>
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
       <category term="css" scheme="http://yoursite.com/tags/css/"/>
     

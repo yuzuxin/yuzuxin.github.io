@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Comic Neue', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 14px;
   line-height: 2;
   color: #555;
@@ -216,7 +216,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Comic Neue', 'Comic Neue', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h2,
 h3,
@@ -1131,7 +1131,7 @@ pre .javascript .function {
   line-height: 36px;
   font-size: 20px;
   font-weight: normal;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'countryh', 'Comic Neue', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1219,7 +1219,7 @@ pre .javascript .function {
   opacity: 0;
 }
 .post-body {
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Comic Neue', 'Comic Neue', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 @media (max-width: 767px) {
   .post-body {
@@ -1497,7 +1497,7 @@ pre .javascript .function {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #999;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Comic Neue', 'Comic Neue', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
 }
@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2104ff;
+  background: #ff13ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2606,9 +2606,6 @@ hr {
 .main-inner {
   margin-top: 80px;
 }
-.header {
-  background: #f5f5f5;
-}
 .header-inner {
   padding: 25px 0 20px;
 }
@@ -2650,8 +2647,10 @@ hr {
   display: none;
 }
 .site-meta .site-title {
-  font-size: 22px;
+  font-size: 35px;
   font-weight: bolder;
+  color: #dcdcdc;
+  padding: 7px;
 }
 @media (max-width: 767px) {
   .site-meta .site-title {
@@ -2663,7 +2662,7 @@ hr {
   display: block;
   overflow: hidden;
   margin: 0 auto;
-  width: 75%;
+  width: 85%;
 }
 @media (max-width: 767px) {
   .logo-line-before,
@@ -2683,6 +2682,10 @@ hr {
   .logo-line-after i {
     height: 3px;
   }
+}
+.logo-line-before i,
+.logo-line-after i {
+  background: #dcdcdc;
 }
 .use-motion .logo-line-before i {
   left: -100%;
@@ -2903,4 +2906,121 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+@font-face {
+  font-family: 'Comic Neue';
+  src: url("/fonts/ComicNeue-Light.eot");
+  src: url("/fonts/ComicNeue-Light.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Light.woff2") format('woff2'), url("/fonts/ComicNeue-Light.woff") format('woff'), url("/fonts/ComicNeue-Light.ttf") format('truetype');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Comic Neue';
+  src: url("/fonts/ComicNeue-Light-Oblique.eot");
+  src: url("/fonts/ComicNeue-Light-Oblique.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Light-Oblique.woff2") format('woff2'), url("/fonts/ComicNeue-Light-Oblique.woff") format('woff'), url("/fonts/ComicNeue-Light-Oblique.ttf") format('truetype');
+  font-weight: 300;
+  font-style: oblique;
+}
+@font-face {
+  font-family: 'Comic Neue';
+  src: url("/fonts/ComicNeue-Regular.eot");
+  src: url("/fonts/ComicNeue-Regular.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Regular.woff2") format('woff2'), url("/fonts/ComicNeue-Regular.woff") format('woff'), url("/fonts/ComicNeue-Regular.ttf") format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Comic Neue';
+  src: url("/fonts/ComicNeue-Regular-Oblique.eot");
+  src: url("/fonts/ComicNeue-Regular-Oblique.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Regular-Oblique.woff2") format('woff2'), url("/fonts/ComicNeue-Regular-Oblique.woff") format('woff'), url("/fonts/ComicNeue-Regular-Oblique.ttf") format('truetype');
+  font-weight: 400;
+  font-style: oblique;
+}
+@font-face {
+  font-family: 'Comic Neue';
+  src: url("/fonts/ComicNeue-Bold.eot");
+  src: url("/fonts/ComicNeue-Bold.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Bold.woff2") format('woff2'), url("/fonts/ComicNeue-Bold.woff") format('woff'), url("/fonts/ComicNeue-Bold.ttf") format('truetype');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Comic Neue';
+  src: url("/fonts/ComicNeue-Bold-Oblique.eot");
+  src: url("/fonts/ComicNeue-Bold-Oblique.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Bold-Oblique.woff2") format('woff2'), url("/fonts/ComicNeue-Bold-Oblique.woff") format('woff'), url("/fonts/ComicNeue-Bold-Oblique.ttf") format('truetype');
+  font-weight: 700;
+  font-style: oblique;
+}
+@font-face {
+  font-family: 'Comic Neue Angular';
+  src: url("/fonts/ComicNeue-Angular-Light.eot");
+  src: url("/fonts/ComicNeue-Angular-Light.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Angular-Light.woff2") format('woff2'), url("/fonts/ComicNeue-Angular-Light.woff") format('woff'), url("/fonts/ComicNeue-Angular-Light.ttf") format('truetype');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Comic Neue Angular';
+  src: url("/fonts/ComicNeue-Angular-Light-Oblique.eot");
+  src: url("/fonts/ComicNeue-Angular-Light-Oblique.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Angular-Light-Oblique.woff2") format('woff2'), url("/fonts/ComicNeue-Angular-Light-Oblique.woff") format('woff'), url("/fonts/ComicNeue-Angular-Light-Oblique.ttf") format('truetype');
+  font-weight: 300;
+  font-style: oblique;
+}
+@font-face {
+  font-family: 'Comic Neue Angular';
+  src: url("/fonts/ComicNeue-Angular-Regular.eot");
+  src: url("/fonts/ComicNeue-Angular-Regular.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Angular-Regular.woff2") format('woff2'), url("/fonts/ComicNeue-Angular-Regular.woff") format('woff'), url("/fonts/ComicNeue-Angular-Regular.ttf") format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Comic Neue Angular';
+  src: url("/fonts/ComicNeue-Angular-Regular-Oblique.eot");
+  src: url("/fonts/ComicNeue-Angular-Regular-Oblique.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Angular-Regular-Oblique.woff2") format('woff2'), url("/fonts/ComicNeue-Angular-Regular-Oblique.woff") format('woff'), url("/fonts/ComicNeue-Angular-Regular-Oblique.ttf") format('truetype');
+  font-weight: 400;
+  font-style: oblique;
+}
+@font-face {
+  font-family: 'Comic Neue Angular';
+  src: url("/fonts/ComicNeue-Angular-Bold.eot");
+  src: url("/fonts/ComicNeue-Angular-Bold.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Angular-Bold.woff2") format('woff2'), url("/fonts/ComicNeue-Angular-Bold.woff") format('woff'), url("/fonts/ComicNeue-Angular-Bold.ttf") format('truetype');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Comic Neue Angular';
+  src: url("/fonts/ComicNeue-Angular-Bold-Oblique.eot");
+  src: url("/fonts/ComicNeue-Angular-Bold-Oblique.eot?#iefix") format('embedded-opentype'), url("/fonts/ComicNeue-Angular-Bold-Oblique.woff2") format('woff2'), url("/fonts/ComicNeue-Angular-Bold-Oblique.woff") format('woff'), url("/fonts/ComicNeue-Angular-Bold-Oblique.ttf") format('truetype');
+  font-weight: 700;
+  font-style: oblique;
+}
+@font-face {
+  font-family: countryh;
+  src: url("../fonts/countryh.ttf");
+}
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
+.posts-expand .post {
+  margin-top: 80px;
+}
+.menu .menu-item a:hover {
+  background: #000;
+}
+.site-meta .brand {
+  padding: 3px 1px;
+}
+.posts-collapse .post-meta {
+  position: absolute;
+  font-size: 15px;
+  left: 12px;
+  top: 2px;
+}
+.tag-cloud-tags a {
+  color: #111 !important;
+}
+.header {
+  background: url("/images/background/001.jpg");
+  height: 350px;
+  background-position: center;
+}
+.menu .menu-item a {
+  font-size: 18px;
+  color: #dcdcdc;
+  font-weight: bolder;
 }
